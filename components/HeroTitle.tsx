@@ -8,7 +8,7 @@ type Phase = "typing" | "pause" | "deleting";
 const BRAND_GREEN = "#6ADA44";
 
 export default function HeroTitle() {
-  const items = ["Mani Sankar", "Python Full Stack Dev"];
+  const items = ["Mani Reddy", "Python Full Stack Dev"];
 
   const [idx, setIdx] = useState(0);
   const [phase, setPhase] = useState<Phase>("typing");
