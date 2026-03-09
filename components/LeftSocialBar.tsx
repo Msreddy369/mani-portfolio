@@ -58,7 +58,7 @@ export default function LeftSocialBar() {
 
         {/* LinkedIn */}
         <a
-          href="https://www.linkedin.com/in/mani-gr-0290103a2/"
+          href="https://www.linkedin.com/in/mani-reddy-gunnam-0489a197/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn"

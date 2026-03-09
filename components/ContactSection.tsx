@@ -101,7 +101,7 @@ export default function ContactSection() {
 
                 {/* LinkedIn (Replaced Phone) */}
                 <a
-                  href="https://www.linkedin.com/in/mani-gr-0290103a2/"
+                  href="https://www.linkedin.com/in/mani-reddy-gunnam-0489a197/"
                   target="_blank"
                   rel="noreferrer"
                   className="
@@ -116,7 +116,7 @@ export default function ContactSection() {
                     <div>
                       <p className="text-sm text-gray-400">LinkedIn</p>
                       <p className="font-semibold text-white/90">
-                        linkedin.com/in/mani-gr-0290103a2
+                        https://www.linkedin.com/in/mani-reddy-gunnam-0489a197/
                       </p>
                     </div>
                   </div>

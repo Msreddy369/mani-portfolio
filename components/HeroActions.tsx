@@ -15,7 +15,7 @@ export default function HeroActions() {
     <div className="pl-22">
       <div className="mt-10 flex flex-wrap gap-5">
         <a
-          href="https://github.com/"
+          href="https://github.com/Msreddy369"
           target="_blank"
           rel="noreferrer"
           className={base}
@@ -25,7 +25,7 @@ export default function HeroActions() {
         </a>
 
         <a
-          href="https://www.linkedin.com/"
+          href="https://www.linkedin.com/in/mani-reddy-gunnam-0489a197/"
           target="_blank"
           rel="noreferrer"
           className={base}
