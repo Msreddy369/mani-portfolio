@@ -52,7 +52,7 @@ export default function Footer() {
             {/* Left */}
             <div>
               <h3 className="text-xl font-semibold">
-                Mani Sankar
+                Mani Reddy
               </h3>
               <p className="text-gray-400 mt-2 max-w-md">
                 Building scalable systems, elegant interfaces, and software that actually ships.
@@ -92,7 +92,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="mailto:manishankar.work999@gmail.com"
+                href="mailto:mr.work963@gmail.com"
                 className="
                   w-11 h-11 flex items-center justify-center
                   rounded-xl border border-white/10 bg-white/[0.03]
@@ -109,7 +109,7 @@ export default function Footer() {
           {/* Divider */}
           <div className="mt-10 border-t border-white/10 pt-6 text-sm text-gray-500 flex flex-col md:flex-row justify-between gap-4">
             <p>
-              © {new Date().getFullYear()} Mani Sankar. All rights reserved.
+              © {new Date().getFullYear()} Mani. All rights reserved.
             </p>
             <p>
               Built with Next.js · Tailwind · Passion
