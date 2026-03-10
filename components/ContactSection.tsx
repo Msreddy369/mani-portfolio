@@ -69,7 +69,7 @@ export default function ContactSection() {
                 
                 {/* Email */}
                 <a
-                  href="mailto:manishankar.work999@gmail.com"
+                  href="mailto:mr.work963@gmail.com"
                   className="
                     block rounded-2xl border border-white/10 bg-white/[0.03] p-5
                     transition-all duration-300
@@ -82,7 +82,7 @@ export default function ContactSection() {
                     <div>
                       <p className="text-sm text-gray-400">Email</p>
                       <p className="font-semibold text-white/90">
-                        manishankar.work999@gmail.com
+                        mr.work963@gmail.com
                       </p>
                     </div>
                   </div>
